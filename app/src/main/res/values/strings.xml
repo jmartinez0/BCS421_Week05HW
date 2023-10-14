@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">BCS421_Week05HW</string>
+    <string name="title">Homework - Who Wants to Be a Millionaire?</string>
+    <string name="earnings">You Earned : $ 0</string>
+    <string name="question_one">What sort of animal is Walt Disney\'s Dumbo?</string>
+    <string name="question_one_choice_one">Deer</string>
+    <string name="question_one_choice_two">Rabbit</string>
+    <string name="question_one_choice_three">Elephant</string>
+    <string name="question_one_choice_four">Donkey</string>
+    <string name="question_one_answer">Elephant</string>
+
+    <string name="question_two">What is the Celsius equivalent of 77 degrees Fahrenheit?</string>
+    <string name="question_two_choice_one">15</string>
+    <string name="question_two_choice_two">20</string>
+    <string name="question_two_choice_three">25</string>
+    <string name="question_two_choice_four">30</string>
+    <string name="question_two_answer">25</string>
+
+    <string name="question_three">Which Shakespeare play features the line "Neither a borrower nor a lender be"?</string>
+    <string name="question_three_choice_one">Hamlet</string>
+    <string name="question_three_choice_two">Macbeth</string>
+    <string name="question_three_choice_three">Othello</string>
+    <string name="question_three_choice_four">The Merchant of Venice</string>
+    <string name="question_three_answer">Hamlet</string>
+
+    <string name="question_four">Which is the largest city in the USA\'s largest state?</string>
+    <string name="question_four_choice_one">Dallas</string>
+    <string name="question_four_choice_two">Los Angeles</string>
+    <string name="question_four_choice_three">New York</string>
+    <string name="question_four_choice_four">Anchorage</string>
+    <string name="question_four_answer">Anchorage</string>
+
+    <string name="question_five">The word "aristocracy" literally means power in the hands of</string>
+    <string name="question_five_choice_one">The rich</string>
+    <string name="question_five_choice_two">The few</string>
+    <string name="question_five_choice_three">The best</string>
+    <string name="question_five_choice_four">The barons</string>
+    <string name="question_five_answer">The best</string>
+
+    <string name="question_six">In which palace was Queen Elizabeth I born?</string>
+    <string name="question_six_choice_one">Greenwich</string>
+    <string name="question_six_choice_two">Richmond</string>
+    <string name="question_six_choice_three">Hampton Court</string>
+    <string name="question_six_choice_four">Kensington</string>
+    <string name="question_six_answer">Greenwich</string>
+
+    <string name="question_seven">From which author\'s work did scientists take the word "quark"?</string>
+    <string name="question_seven_choice_one">Lewis Carroll</string>
+    <string name="question_seven_choice_two">Edward Lear</string>
+    <string name="question_seven_choice_three">James Joyce</string>
+    <string name="question_seven_choice_four">Aldous Huxley</string>
+    <string name="question_seven_answer">James Joyce</string>
+
+    <string name="game_over">Game over!</string>
+    <string name="statistics">Here are your statistics</string>
+    <string name="amount_correct">Amount Correct</string>
+    <string name="total_earnings">Total Earnings</string>
+
+</resources>
